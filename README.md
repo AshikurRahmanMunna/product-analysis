@@ -1,6 +1,5 @@
 # [Cloth Analysis Website](https://cloth-analysis.netlify.app/)
-
-[Private Repo Link](https://cloth-analysis.netlify.app/)
+[Live Site Link](https://cloth-analysis.netlify.app/)
 [https://cloth-analysis.netlify.app/](https://cloth-analysis.netlify.app/)
 
 This Website Have The Following features:
