@@ -21,7 +21,7 @@ const HomeReviews = () => {
                 }
             </div>
             <div>
-                <button onClick={reviewBtn} className='px-10 py-2 bg-blue-700 rounded-lg'>See All reviews</button>
+                <button onClick={reviewBtn} className='mb-5 px-10 py-2 bg-blue-700 rounded-lg'>See All reviews</button>
             </div>
         </div>
     );
