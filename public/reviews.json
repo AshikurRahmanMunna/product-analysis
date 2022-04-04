@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "user": "Zelensky",
+        "img": "img/zelensky.jpg",
+        "rating": 4.5,
+        "description": "I brought a missile and a nuclear bomb from here. Works ,edium. I will buy one more from this website."
+    },
+    {
+        "id": 2,
+        "user": "Vladimir Putin",
+        "img": "img/putin.jpg",
+        "rating": 5.0,
+        "description": "I brought a missile and a nuclear bomb from here. Works very well. I will buy more from this website."
+    },
+    {
+        "id": 3,
+        "user": "Ernest Rutherford",
+        "img": "img/rutherford.jpg",
+        "rating": 4.0,
+        "description": "Not so bad!!! Quite good product and a good response"
+    },
+    {
+        "id": 4,
+        "user": "Joe Biden",
+        "img": "img/joe-biden.jpg",
+        "rating": 5.0,
+        "description": "I got very good product from the website. Best ecommerce site i have ever seen"
+    },
+    {
+        "id": 5,
+        "user": "Isaac Newton",
+        "img": "img/newton.jpg",
+        "rating": 4.5,
+        "description": "Good products. Very good, It helps me for researching how apple fall on the floor."
+    },
+    {
+        "id": 6,
+        "user": "Albert Einstein",
+        "img": "img/einstein.jpg",
+        "rating": 5.0,
+        "description": "Very good product and fast delivery services here. I got this website so helpful"
+    }
+]
